@@ -1,0 +1,6 @@
+Name: Olubadejo Folajuwon
+Matric Number: 23CG034128
+Machine Learning Algorithm Used: Random Forest Classifier
+Model persistence method used: Joblib
+Live URL of the hosted application: [INSERT LIVE URL HERE]
+GitHub repository link: [INSERT GITHUB LINK HERE]
